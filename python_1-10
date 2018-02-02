@@ -1,0 +1,9 @@
+
+ten = range(1,11)
+
+start = int(raw_input("What number should we start with? "))
+end = int(raw_input("What number should we end with?" ))
+for x in ten:
+  while start<=x<=end
+  print x
+

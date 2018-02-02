@@ -1,0 +1,15 @@
+ str = raw_input("Input a string." )
+ leet_letters = {
+    a:4,
+    e:3
+    g:6
+    i:1
+    o:0
+    s:5
+    t:7
+}
+for i in range(1, (len(str)-1)):    
+  target = str.charAt(i)
+  if leet_letters.has_key(target):
+    replace.str()
+      
